@@ -2,7 +2,7 @@ Gabriel Barros Mazzariol
 
 RM:555410
 
-Vercel: 
+Vercel: (projeto ficava dando erro na hora de subir no Vercel)
 
 No projeto criei um portfólio sobre meus trabalhos anteriores
 
